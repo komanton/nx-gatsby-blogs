@@ -25,7 +25,7 @@ export function AuthorDetails({ author, posts }: AuthorDetailsProps) {
           <AuthorAvator aria-label={author.name} src={author.avatar} />
         )}
         <Typography variant="h2" component="h1">
-          {author.name}
+          {author.name} !!!++++++
         </Typography>
       </Box>
       {author.description && (

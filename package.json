@@ -43,6 +43,7 @@
     "document-register-element": "1.13.1",
     "gatsby": "3.10.0",
     "gatsby-image": "3.10.0",
+    "gatsby-plugin-image": "3.10.0",
     "gatsby-plugin-env-variables": "^2.1.0",
     "gatsby-plugin-layout": "^2.3.0",
     "gatsby-plugin-manifest": "3.10.0",
